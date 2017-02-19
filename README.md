@@ -9,4 +9,4 @@ Remote storage (By default not persistent)
 - Scalable
 
 ## Technical Motivation
-Personally practise gluing C and Erlang
+Personally practise gluing C and Erlang/Elixir
